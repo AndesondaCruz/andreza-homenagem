@@ -2,9 +2,9 @@
 
 Site de homenagem pessoal feito com React + Vite, com layout responsivo, carta, seção de memórias, galeria de fotos e espaço para uma música personalizada.
 
-## 1. Rodar no Fedora
+## 1. Rodar na sua máquina
 
-Abra o terminal da sua máquina (Fedora), entre na pasta do projeto e execute:
+Abra o terminal da sua máquina, entre na pasta do projeto e execute:
 
 ```bash
 npm install
