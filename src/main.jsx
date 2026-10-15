@@ -68,7 +68,7 @@ function App() {
           <div className="dedication-inner wrap">
             <div className="section-kicker"><span>01</span><span className="kicker-rule" /> UMA CARTA PARA VOCÊ</div>
             <div className="letter-grid">
-              <div className="letter-heading"><p className="script-label">Minha querida</p><h2>Andreza, <em>mãe.</em></h2><div className="little-flower">✳</div></div>
+              <div className="letter-heading"><p className="script-label">Minha querida</p><h2>Guerreira, <em>mãe.</em></h2><div className="little-flower">✳</div></div>
               <div className="letter-body">
                 <p className="letter-opening">Se eu pudesse colocar em uma página tudo o que você significa para mim, ainda faltaria espaço.</p>
                 <p>Porque o seu amor está nas grandes lembranças, mas também mora nas coisas pequenas: no cuidado, nos conselhos, na preocupação e em tantos gestos que talvez você nem perceba que eu guardo comigo.</p>
